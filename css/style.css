@@ -173,6 +173,7 @@ span.blue-text{
 	overflow: auto;
 	background-image:url(../img/msg-back.jpg);
 	background-size: cover;
+	background-color:#eee;
 }
 .msg{
 	display:flex;
